@@ -1,0 +1,9 @@
+name: itd_flutter_spinner_widget
+description: Spinner widget to show a spinner with a simple message
+version: 0.0.1
+homepage: https://github.com/tejainece/itd_intro_screen
+author: Ravi Teja Gudapati <tejainece@gmail.com>
+
+dependencies:
+  flutter:
+    sdk: flutter
